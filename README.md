@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Halcolivan.github.io/rsschool-cv/cv

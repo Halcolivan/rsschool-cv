@@ -1,3 +1,8 @@
+.nav_list {
+	display: flex;
+	background-color: burlywood;
+}
 .nav_item {
 	list-style-type: none;
+	display: inline;
 }

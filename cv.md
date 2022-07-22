@@ -1,0 +1,10 @@
+# Oleg Materikin
+![My Photo](https://lh3.googleusercontent.com/CGf4d_arTwPbYkfnjS2jgq4rCdzh00bM3rGrD1bf2Y5OpxNbSvaVfLitMpDt5Q_t8VIUBkD-EO_JDxu33sLhaQYYHujdPZ8lGxJblu5upYB7DV3UPwAL5HKZRwKV950POMbVZwb46HaxdDKVsVoB4EYyGzaoWs3KKBI2CVwdttXy9jmXdCKsqG4W5TzE-tVn3y9UrMz680VsGfgPdII8jQIno3ZTsC2KZRTTZggsPLlfJZYmEuc3vVJwUUvlXXfIWt5AiPmYhp2XvUh6_C3KyZCbIDT43y7ym1cOQvp22r5fYumiC3uedAg9pEshibkYMDLghkj5jfsu-ITQ09sPHwyvfASMwEKqePOgFRGOgxinjV50JjWKxaff12m_ZWpr-EbhY-yXylXqJQpwyDSV-ANp1U82w6qGI5Tp0iZn7H3BIJ1ATSjk3wfQpKezJTZMy6vzKddo50GbuZp8EePia9HUgMbYhFabELdCzoJD7hEE4-ZvFSOm66ow3sxu4GCCf9KCYwc0jP7W2W1Z4HbobeN8ym0VHon0gfk6cRP2BWpSjQWzR9BPzGUQi5MDB17FShM1-zcl3TNWWZdUtWECEPuGx6Mfk390gVDK6UZBj9cfX_Ul6SWTDfR9SFd-yoBJ0MWH370RVqYXn7MBO2MzDoS1xkmIfK4NQsuI2eN-DJjIFVny4-vxq_mEt5ilRzN-WSVlP2lU04UawBukcKCDM-WO9qwHUryMTN5r1YU3AdhRzd4OTd1Fu77hdJdG=w187-h200-no?authuser=0)
+## Contact
+* Location: Omsk, Russia
+* Email: 4066740@gmail.com
+* GitHub: https://github.com/Halcolivan
+* Discord: Halcolivan#1181
+## About me
+I am studying web development. Punctual, loyal.
+## English A0

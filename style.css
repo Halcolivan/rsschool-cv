@@ -1,12 +1,9 @@
-.nav {
-	
-}
 .nav_list {
 	display: flex;
 	background-color: burlywood;
-	height: 50px;
-	width: 800px;
-	
+	height: 55px;
+	justify-content: space-around;
+	padding: 0;
 }
 .nav_item {
 	list-style-type: none;

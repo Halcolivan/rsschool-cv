@@ -1,6 +1,12 @@
+.nav {
+	
+}
 .nav_list {
 	display: flex;
 	background-color: burlywood;
+	height: 50px;
+	width: 800px;
+	
 }
 .nav_item {
 	list-style-type: none;
